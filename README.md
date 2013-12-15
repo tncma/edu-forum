@@ -21,5 +21,6 @@ The above idea is done by running cron job in the server.
 
 		Seperate profile for administrators are created. This profile has some priviliged access to the website. Admins can view all the queries based on category filter. And admins also has the power to remove a question from the forum or block a user from using the forum. Admins can also mark a question as answered and close that query.
 
-
+Technology:
+  HTML, CSS, JavaScript, AJAX, PHP, MySQL.
 
